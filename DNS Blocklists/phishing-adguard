@@ -1,4 +1,14 @@
 #
 #
-# DNS blocklist configuration for adguard will be provided here
+# DNS blocklist configuration for adguard will be provided here. All the domains provided in this list are also reported at Google Safe Browsing and Microsoft Security Intelligence.
 #
+# Used in a Discord NSFW server to get people to load adware websites where some eventualy point to malware downloads
+||free-content.pro^
+||best-links.org^
+||pogothere.xyz^
+||freesuperbapp.monster^
+||read-infinite.com^
+||weseek.co^
+||trends.weseek.co^
+||of4free.com^
+||nsfwaccess.website^
